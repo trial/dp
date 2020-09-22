@@ -6,7 +6,7 @@ page1_url=https://caiji.hywmapp.com/?s=Home-index-news.html
 page2_url_pre=https://caiji.hywmapp.com/?s=Home-Index-index-p-
 page2_url_suffix=.html
 first_container_select=.vod-type-list
-first_items_select=.item
+first_items_select=a
 title_select=.title
 title_select_attr=none
 logo_select=img
