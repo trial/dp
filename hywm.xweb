@@ -5,7 +5,7 @@ page_number=314
 page1_url=https://caiji.hywmapp.com/?s=Home-index-news.html
 page2_url_pre=https://caiji.hywmapp.com/?s=Home-Index-index-p-
 page2_url_suffix=.html
-first_container_select=.content .owl-stage-outer
+first_container_select=.content .owl-carousel
 first_items_select=.item
 title_select=.title
 title_select_attr=none
