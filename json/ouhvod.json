@@ -13,7 +13,7 @@
 "vod_title":"//h4/a",
 "vod_image":"//a[contains(@class,'myui-vodlist__thumb')]/@data-original",
 "vod_url":"//h4/a/@href",
-"play_regex":"aWZyYW1lIHNyYz0iaHR0cHM6Ly94Lm91aHZvZC5jb20vcGxheWVyLz91cmw9KGh0dHBbXiJdKyk=",
+"play_regex":"aWZyYW1lIHNyYz0iaHR0cHM6Ly94Lm91aHZvZC5jb20vcGxheWVyL1w/dXJsPShodHRwW14iXSsp",
 "playlist_flag":true,
 "playlist_group_node":"//ul[contains(@class, 'myui-content__list')]",
 "playlist_title":"//a",
