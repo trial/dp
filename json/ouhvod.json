@@ -19,7 +19,7 @@
 "playlist_title":"//a",
 "playlist_url":"//a/@href",
 "playlist_url_replace":"",
-"playlist_info":"//p[contains(@class,'data') and contains(text(), '简介')]",
+"playlist_info":"//span[@class='data']",
 "search_flag":true,
 "search_url_first_page":"https://www.ouhvod.com/vodsearch/-------------.html?wd={wd}&submit=",
 "search_url_other_page":"https://www.ouhvod.com/vodsearch/{wd}----------{pg}---.html",
