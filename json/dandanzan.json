@@ -9,7 +9,7 @@
 "url_first_page":"https://www.dandanzan.cc/dianying/",
 "url_other_page":"https://www.dandanzan.cc/dianying/index_{pg}.html",
 "vod_node":"//div[contains(@class, 'lists-content')]//ul//li",
-"vod_info":"//div[@class='countrie']//span[0]",
+"vod_info":"//div[@class='countrie']//span[2]",
 "vod_score":"//div[@class='countrie']//span[1]",
 "vod_title":"//h2/a",
 "vod_image":"//img/@src",
