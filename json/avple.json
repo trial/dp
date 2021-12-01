@@ -13,7 +13,7 @@
 "vod_title":"title",
 "vod_image":"img_normal",
 "vod_url":"play",
-"play_regex":"json",
+"play_regex":"",
 "playlist_flag":false,
 "playlist_group_node":"",
 "playlist_title":"",
