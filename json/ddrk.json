@@ -12,7 +12,7 @@
 "vod_info":"//span[@class='post-box-meta']//a",
 "vod_score":"",
 "vod_title":"//h2/a",
-"vod_image":"regex:\((http.+jpg)\)",
+"vod_image":"regex:\\((http.+jpg)\\)",
 "vod_url":"//h2/a/@href",
 "play_regex":"",
 "playlist_flag":false,
