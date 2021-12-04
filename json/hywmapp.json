@@ -12,7 +12,7 @@
 "vod_score":"//p[@class='watch-time-l'",
 "vod_title":"//div[@class='title']",
 "vod_image":"//img/@src",
-"vod_url":"/a/@href",
+"vod_url":"a/@href",
 "play_regex":"dmFsdWU9IihodHRwW14iXSttM3U4KQ==",
 "playlist_flag":false,
 "playlist_group_node":"",
