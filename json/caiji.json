@@ -732,26 +732,6 @@
    "episode_flag":false,
  "site_api_url":"http://99zy.pw/api.php/provide/vod/at/xml"
 },{
- "site_title":"010爱资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://www.010aizy.com/API/macs.php"
-},{
- "site_title":"鲍鱼BB",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://baoyub.live/inc/api.php"
-},{
- "site_title":"天堂AV",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://www.njxinli.com/inc/api.php"
-},{
- "site_title":"5X资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://0413.api.cdn.5api123.com/api.php"
-},{
  "site_title":"痴汉队长",
  "site_reverse":false,
    "episode_flag":false,
@@ -762,30 +742,15 @@
    "episode_flag":false,
  "site_api_url":"https://www.888dav.com/api.php/provide/vod/at/xml"
 },{
- "site_title":"裸艺视频",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://122ap.com/inc/api.php"
-},{
  "site_title":"柚萌视频",
  "site_reverse":false,
    "episode_flag":false,
  "site_api_url":"https://sourceNameweb.xyz/api.php/provide/vod/at/xml"
 },{
- "site_title":"99资源吧",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://99zyba.com/api.php/provide/vod/at/xml"
-},{
  "site_title":"佳人资源",
  "site_reverse":false,
    "episode_flag":false,
  "site_api_url":"https://www.951c.tk/api.php/provide/vod/at/xml"
-},{
- "site_title":"EU资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://euzy9.xyz/api.php/provide/vod/at/xml"
 },{
  "site_title":"浪潮资源",
  "site_reverse":false,
@@ -842,11 +807,6 @@
    "episode_flag":false,
  "site_api_url":"http://laoyazy.vip/api.php/provide/vod/at/xml"
 },{
- "site_title":"茄子资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://www.qiezizy8.com/api.php/provide/vod/at/xml"
-},{
  "site_title":"辣椒资源",
  "site_reverse":false,
    "episode_flag":false,
@@ -857,18 +817,13 @@
    "episode_flag":false,
  "site_api_url":"https://lbapi9.com/api.php/provide/vod/at/xml"
 },{
- "site_title":"趣播资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"https://www.qbzyz.com/api.php/provide/vod/at/xml"
-},{
  "site_title":"AVZY6888资源",
  "site_reverse":false,
    "episode_flag":false,
  "site_api_url":"http://m.7777688.com/inc/api.php"
 },{
  "site_title":"800188188",
- "site_reverse":false,
+ "site_reverse":true,
    "episode_flag":false,
  "site_api_url":"http://www.800188188.com/inc/api.php"
 },{
@@ -876,11 +831,6 @@
  "site_reverse":false,
    "episode_flag":false,
  "site_api_url":"http://jcspcj8.co/sapi"
-},{
- "site_title":"久草在线视频",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"https://hhjc2.com/sapi"
 },{
  "site_title":"佳丽资源",
  "site_reverse":false,
@@ -891,16 +841,6 @@
  "site_reverse":false,
    "episode_flag":false,
  "site_api_url":"http://cj.cangtiancj.com/api.php/provide/vod/at/xml"
-},{
- "site_title":"速度资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"http://www.ggmmzy.com:9999/inc/xml"
-},{
- "site_title":"优果资源",
- "site_reverse":false,
-   "episode_flag":false,
- "site_api_url":"https://www.ugirl6.com/inc/zyapimac.php"
 },{
  "site_title":"KK写真资源",
  "site_reverse":false,
