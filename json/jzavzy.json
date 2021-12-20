@@ -13,7 +13,7 @@
 "vod_title":"//img/@alt",
 "vod_image":"//img/@src",
 "vod_url":"//a[@name='videoa']/@href",
-"play_regex":"aGxzVXJsID0gJyhbXiddKyk=",
+"play_regex":"c291cmNlIHNyYz0iKFteIl0rKQ==",
 "playlist_flag":false,
 "playlist_group_node":"",
 "playlist_title":"",
