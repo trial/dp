@@ -11,7 +11,7 @@
 "vod_info":"json",
 "vod_score":"props,pageProps,data",
 "vod_title":"title",
-"vod_image":"img_normal",
+"vod_image":"img_preview",
 "vod_url":"play",
 "play_regex":"",
 "playlist_flag":false,
