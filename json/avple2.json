@@ -7,7 +7,7 @@
 "tags":"最近更新,麻豆传媒,SWAG,FC2PPV",
 "url_first_page":"https://avple.tv/tags/0/1/date,https://avple.tv/tags/121/1/date,https://avple.tv/tags/122/1/date,https://avple.tv/tags/135/1/date",
 "url_other_page":"https://avple.tv/tags/0/{pg}/date,https://avple.tv/tags/121/{pg}/date,https://avple.tv/tags/122/{pg}/date,https://avple.tv/tags/135/{pg}/date",
-"vod_node":"//div[@class='jss28']//div[contains(@class, 'MuiGrid-item')]",
+"vod_node":"//div[@class='jss28']//div[contains(@class, 'MuiGrid-container')]",
 "vod_info":"//time",
 "vod_score":"//div[contains(@class, 'MuiGridListTileBar-subtitle')][1]",
 "vod_title":"//img/@alt",
