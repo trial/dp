@@ -7,7 +7,7 @@
 "tags":"Recent",
 "url_first_page":"https://deepfakesporn.com/videos/",
 "url_other_page":"https://deepfakesporn.com/videos/{pg}/",
-"vod_node":"//ul[contains(@id, 'videos')]//li",
+"vod_node":"//ul[contains(@class, 'videos')]//li",
 "vod_info":"",
 "vod_score":"//span[contains(@class, 'duration')]",
 "vod_title":"/a/@title",
