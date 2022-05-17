@@ -22,7 +22,7 @@
 "playlist_group_node":"//div[@id='playlistbox']//ul",
 "playlist_title":"//li/a",
 "playlist_link_id":"//li/a/@href",
-"playlist_link_url":"{id}",
+"playlist_link_url":"https://www.olevod.com{id}",
 "playlist_info":"//div[contains(@class, 'content_desc')]/span",
 "search_flag":true,
 "search_url_first_page":"https://www.olevod.com/index.php/vod/search.html?wd={wd}&submit=",
