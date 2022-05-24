@@ -5,9 +5,28 @@
 "landscape_flag":false,
 "referer":"",
 "open_with_safari_flag":false,
-"tags":"电影,连续剧,综艺,动漫",
-"url_first_page":"https://www.olevod.com/index.php/vod/show/id/1.html,https://www.olevod.com/index.php/vod/show/id/2.html,https://www.olevod.com/index.php/vod/show/id/3.html,https://www.olevod.com/index.php/vod/show/id/4.html",
-"url_other_page":"https://www.olevod.com/index.php/vod/show/id/1/page/{pg}.html,https://www.olevod.com/index.php/vod/show/id/2/page/{pg}.html,https://www.olevod.com/index.php/vod/show/id/3/page/{pg}.html,https://www.olevod.com/index.php/vod/show/id/4/page/{pg}.html",
+  "category": [{
+			"title": "电影",
+			"url0": "https://www.olevod.com/index.php/vod/show/id/1.html",
+			"url1": "https://www.olevod.com/index.php/vod/show/id/1/page/{pg}.html"
+		},
+               {
+			"title": "连续剧",
+			"url0": "https://www.olevod.com/index.php/vod/show/id/2.html",
+			"url1": "https://www.olevod.com/index.php/vod/show/id/2/page/{pg}.html"
+		},
+               {
+			"title": "综艺",
+			"url0": "https://www.olevod.com/index.php/vod/show/id/3.html",
+			"url1": "https://www.olevod.com/index.php/vod/show/id/3/page/{pg}.html"
+		},
+               {
+			"title": "动漫",
+			"url0": "https://www.olevod.com/index.php/vod/show/id/4.html",
+			"url1": "https://www.olevod.com/index.php/vod/show/id/4/page/{pg}.html"
+		}
+]
+
 "vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
 "vod_score":"//span[contains(@class,'text_right')",
