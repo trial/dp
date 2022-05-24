@@ -24,6 +24,7 @@
 "vod_link_id":"//h6/a/@href",
 "vod_link_url":"{id}",
 "play_regex":"aGxzVXJsID0gJyhbXiddKyk=",
+"play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
 "playlist_title":"",
