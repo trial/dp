@@ -12,7 +12,7 @@
 "vod_node":"//div[@class='list-videos']//div[@class='item']",
 "vod_info":"//div[@class='views']",
 "vod_score":"//div[contains(@class, 'duration')]",
-"vod_title":"//strong[class='title']",
+"vod_title":"//strong[@class='title']",
 "vod_image_id":"//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
