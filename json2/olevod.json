@@ -25,8 +25,7 @@
 			"url0": "https://www.olevod.com/index.php/vod/show/id/4.html",
 			"url1": "https://www.olevod.com/index.php/vod/show/id/4/page/{pg}.html"
 		}
-]
-
+],
 "vod_node":"//ul[contains(@class, 'vodlist')]//li",
 "vod_info":"",
 "vod_score":"//span[contains(@class,'text_right')",
