@@ -9,7 +9,7 @@
 			"url1": "https://xgroovy.com/new/{pg}/"
 		}
 	],  
-"vod_node":"//div[@class='list-videos']//div[@class='item']",
+"vod_node":"//div[@class='list-videos']//div[@class='item  ']",
 "vod_info":"//div[@class='views']",
 "vod_score":"//div[contains(@class, 'duration')]",
 "vod_title":"//strong[@class='title']",
