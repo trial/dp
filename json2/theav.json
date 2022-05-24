@@ -15,8 +15,8 @@
 		},
     {
 			"title": "欧美",
-			"url0": "https://theav.xyz/jav/eu",
-			"url1": "https://theav.xyz/jav/eu/{pg}/"
+			"url0": "https://theav.xyz/eu",
+			"url1": "https://theav.xyz/eu/{pg}/"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'video-list')]//div[contains(@class, 'card')]",
