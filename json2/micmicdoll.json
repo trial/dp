@@ -15,7 +15,7 @@
 			"url1": ""
 		}
 	], 
-"next_page_node":"//a[class='blog-pager-older-link']/@href",
+"next_page_node":"//a[@class='blog-pager-older-link']/@href",
 "vod_node":"//div[contains(@id, 'main-wrapper')]//div[contains(@class, 'blog-posts')]//div[contains(@class, 'post')]",
 "vod_info":"",
 "vod_score":"",
