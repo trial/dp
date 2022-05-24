@@ -5,9 +5,43 @@
 "landscape_flag":false,
 "referer":"https://ca.duboku.fun/",
 "open_with_safari_flag":false,
-"tags":"剧集,英美剧,日韩剧,陆剧,港剧,综艺,动漫",
-"url_first_page":"https://www.duboku.tv/vodtype/2.html,https://www.duboku.tv/vodtype/16.html,https://www.duboku.tv/vodtype/15.html,https://www.duboku.tv/vodtype/13.html,https://www.duboku.tv/vodtype/20.html,https://www.duboku.tv/vodtype/3.html,https://www.duboku.tv/vodtype/4.html",
-"url_other_page":"https://www.duboku.tv/vodtype/2-{pg}.html,https://www.duboku.tv/vodtype/16-{pg}.html,https://www.duboku.tv/vodtype/15-{pg}.html,https://www.duboku.tv/vodtype/13-{pg}.html,https://www.duboku.tv/vodtype/20-{pg}.html,https://www.duboku.tv/vodtype/3-{pg}.html,https://www.duboku.tv/vodtype/4-{pg}.html",
+"category": [{
+			"title": "剧集",
+			"url0": "https://www.duboku.tv/vodtype/2.html",
+			"url1": "https://www.duboku.tv/vodtype/2-{pg}.html"
+		},
+		{
+			"title": "英美剧",
+			"url0": "https://www.duboku.tv/vodtype/16.html",
+			"url1": "https://www.duboku.tv/vodtype/16-{pg}.html"
+		},
+     {
+			"title": "日韩剧",
+			"url0": "https://www.duboku.tv/vodtype/15.html",
+			"url1": "https://www.duboku.tv/vodtype/15-{pg}.html"
+		},
+                  {
+			"title": "陆剧",
+			"url0": "https://www.duboku.tv/vodtype/13.html",
+			"url1": "https://www.duboku.tv/vodtype/13-{pg}.html"
+		},
+                  {
+			"title": "港剧",
+			"url0": "https://www.duboku.tv/vodtype/20.html",
+			"url1": "https://www.duboku.tv/vodtype/20-{pg}.html"
+		},
+                  {
+			"title": "综艺",
+			"url0": "https://www.duboku.tv/vodtype/3.html",
+			"url1": "https://www.duboku.tv/vodtype/3-{pg}.html"
+		},
+                  {
+			"title": "动漫",
+			"url0": "https://www.duboku.tv/vodtype/4.html",
+			"url1": "https://www.duboku.tv/vodtype/4-{pg}.html"
+		}
+	],    
+
 "vod_node":"//ul[contains(@class, 'myui-vodlist')]//li",
 "vod_info":"//span[contains(@class, 'pic-text')]",
 "vod_score":"//span[@class='tag']",
