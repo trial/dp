@@ -36,6 +36,7 @@
 "vod_link_id":"//p[@class='vodlist_title']/a/@href",
 "vod_link_url":"https://www.olevod.com{id}",
 "play_regex":"InVybCI6IihodHRwW14iXSsp",
+"play_url":"{id}",
 "playlist_flag":true,
 "playlist_group_node":"//div[@id='playlistbox']//ul",
 "playlist_title":"//li/a",
