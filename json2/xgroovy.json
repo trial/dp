@@ -4,9 +4,29 @@
 "episode_flag":false,
 "landscape_flag":true,
 "category": [{
-			"title": "最近更新",
+			"title": "Newest",
 			"url0": "https://xgroovy.com/new/",
 			"url1": "https://xgroovy.com/new/{pg}/"
+		},
+	     {
+			"title": "Chinese",
+			"url0": "https://xgroovy.com/categories/chinese/",
+			"url1": "https://xgroovy.com/categories/chinese/{pg}/"
+		},
+	       {
+			"title": "Japanese",
+			"url0": "https://xgroovy.com/categories/japanese/",
+			"url1": "https://xgroovy.com/categories/japanese/{pg}/"
+		},
+	       {
+			"title": "Asian",
+			"url0": "https://xgroovy.com/categories/asian/",
+			"url1": "https://xgroovy.com/categories/asian/{pg}/"
+		},
+	       {
+			"title": "Creampie",
+			"url0": "https://xgroovy.com/categories/creampie/",
+			"url1": "https://xgroovy.com/categories/creampie/{pg}/"
 		}
 	],  
 "vod_node":"//div[@class='list-videos']//div[@class='item  ']",
