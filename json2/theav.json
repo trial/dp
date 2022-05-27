@@ -11,12 +11,12 @@
 		{
 			"title": "日本无码",
 			"url0": "https://theav.xyz/jav/uncensored",
-			"url1": "https://theav.xyz/jav/uncensored/{pg}/"
+			"url1": "https://theav.xyz/jav/uncensored/{pg}"
 		},
     {
 			"title": "欧美",
 			"url0": "https://theav.xyz/eu",
-			"url1": "https://theav.xyz/eu/{pg}/"
+			"url1": "https://theav.xyz/eu/{pg}"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'video-list')]//div[contains(@class, 'card')]",
