@@ -12,9 +12,9 @@
    "url":"https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
    "group":"News"
   },
-    {"name":"ABC Newsradio",
-   "logo":"https://cdn.sao.fm/wp-content/uploads/2021/11/12872154-1x1-thumbnail.png",
-   "url":"https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8",
+    {"name":"NPR radio",
+   "logo":"https://jedfoundation.org/wp-content/uploads/2021/11/NPR_Sticker.png",
+   "url":"https://npr-ice.streamguys1.com/live.mp3",
    "group":"News"
   },
     {"name":"UFM100.3",
