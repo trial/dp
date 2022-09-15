@@ -21,6 +21,11 @@
    "logo":"https://cdn.sao.fm/wp-content/uploads/20220318111807494.jpg",
    "url":"https://23683.live.streamtheworld.com/UFM_1003AAC.aac",
    "group":"Music"
+  },
+  {"name":"RFI法国国际广播电台",
+   "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",
+   "url":"http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3",
+   "group":"News"
   }
  
   ]}
