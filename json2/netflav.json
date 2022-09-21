@@ -1,29 +1,30 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"avple",
+"title":"netflav",
 "episode_flag":false,
 "landscape_flag":true,
+"open_with_safari_flag":true,
 "category": [{
-			"title": "麻豆傳媒",
-			"url0": "https://avple.tv/tags/121/1/date",
-			"url1": "https://avple.tv/tags/121/{pg}/date"
+			"title": "无码",
+			"url0": "https://netflav.com/uncensored",
+			"url1": "https://netflav.com/uncensored?page={pg}"
 		},
 		{
-			"title": "SWAG",
-			"url0": "https://avple.tv/tags/122/1/date",
-			"url1": "https://avple.tv/tags/122/{pg}/date"
+			"title": "有码",
+			"url0": "https://netflav.com/censored",
+			"url1": "https://netflav.com/censored?page={pg}"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'jss23')]//div[contains(@class, 'MuiGrid-container')]//div[contains(@class, 'MuiGrid-item')]",
-"vod_info":"//time",
-"vod_score":"//div[contains(@class, 'MuiGridListTileBar-subtitle')]",
-"vod_title":"//img/@alt",
-"vod_image_id":"//img/@src",
+"vod_node":"//div[contains(@class, 'video_grid_container')]//div[contains(@class, 'grid_cell')]",
+"vod_info":"//div[@class='grid_date']",
+"vod_score":"",
+"vod_title":"//div[@class='grid_title']",
+"vod_image_id":"//a//img/@src",
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://avple.tv{id}",
-"play_regex":"aGxzVXJsID0gJyhbXiddKyk=",
+"vod_link_url":"https://netflav.com{id}",
+"play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
