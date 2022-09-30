@@ -1,0 +1,51 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"热播库",
+"episode_flag":true,
+"landscape_flag":false,
+"open_with_safari_flag":false,
+"category": [{
+			"title": "电影",
+			"url0": "https://www.reboku.cc/k/dy.html",
+			"url1": "https://www.reboku.cc/k/dy-{pg}.html"
+		},
+		{
+			"title": "剧集",
+			"url0": "https://www.reboku.cc/k/tv.html",
+			"url1": "https://www.reboku.cc/k/tv-{pg}.html"
+		},
+     {
+			"title": "动漫",
+			"url0": "https://www.reboku.cc/k/dm.html",
+			"url1": "https://www.reboku.cc/k/dm-{pg}.html"
+		}
+	],    
+
+"vod_node":"//ul[contains(@class, 'content-list')]//li",
+"vod_info":"//span[contains(@class, 'bottom2')]",
+"vod_score":"//h3//span",
+"vod_title":"//h3/a",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//h3/a/@href",
+"vod_link_url":"https://www.reboku.cc{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":true,
+"playlist_group_node":"//ul[contains(@class, 'player')]",
+"playlist_title":"//li/a",
+"playlist_link_id":"//li/a/@href",
+"playlist_link_url":"https://www.reboku.cc{id}",
+"playlist_info":"//div[contains(@class, 'movie-introduce')]",
+"search_flag":true,
+"search_url_first_page":"https://www.reboku.cc/so/-------------.html?wd={wd}",
+"search_url_other_page":"https://www.reboku.cc/so/{wd}----------{pg}---.html",
+"search_vod_node":"//div[contains(@class, 'sr_lists')]//dl",
+"search_vod_title":"//strong/a",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//strong/a/@href",
+"search_vod_link_url":"https://www.reboku.cc{id}"
+}
