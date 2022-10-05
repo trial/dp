@@ -11,7 +11,7 @@
 		}
 	],  
 "vod_node":"//ul[contains(@id, 'videoCategory')]//li[contains(@class, 'pcVideoListItem')]",
-"vod_info":"var[@class='added']",
+"vod_info":"//var[@class='added']",
 "vod_score":"//var[contains(@class, 'duration')]",
 "vod_title":"//span[@class='title']/a/@title",
 "vod_image_id":"//img/@data-mediumthumb",
