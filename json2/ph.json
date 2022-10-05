@@ -6,7 +6,7 @@
 "yt-dlp":true,
 "category": [{
 			"title": "首页",
-			"url0": "https://cn.pornhub.com",
+			"url0": "https://cn.pornhub.com/video?page=1",
 			"url1": "https://cn.pornhub.com/video?page={pg}"
 		}
 	],  
