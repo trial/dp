@@ -26,6 +26,11 @@
    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",
    "url":"http://live02.rfi.fr/rfienchinois-64.mp3",
    "group":"News"
+  },
+  {"name":"WSBU-88.3 FM St. Bonaventure NY",
+   "logo":"https://pbs.twimg.com/profile_images/1488244601135763456/-w1qGgD-_400x400.jpg",
+   "url":"https://17573.live.streamtheworld.com/WSBUFMAAC.aac",
+   "group":"College radio stations"
   }
  
   ]}
