@@ -30,7 +30,7 @@
 		}
              
 	],  
-"vod_node":"//div[contains(@class, 'video-block')]//div[contains(@class, 'video-card')]",
+"vod_node":"//div[contains(@class, 'video-block')]//div[contains(@class, 'container')]",
 "vod_info":"//div[@class='time']",
 "vod_score":"",
 "vod_title":"//div[@class='video-title']/a",
@@ -50,7 +50,7 @@
 "search_flag":true,
 "search_url_first_page":"https://mustjav.com/index.php/vod/search.html?wd={wd}",
 "search_url_other_page":"https://mustjav.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
-"search_vod_node":"//div[contains(@class, 'video-block')]//div[contains(@class, 'video-card')]",
+"search_vod_node":"//div[contains(@class, 'video-block')]//div[contains(@class, 'container')]",
 "search_vod_title":"//div[@class='video-title']/a",
 "search_vod_image_id":"//img/@data-original",
 "search_vod_image_regex":"",
