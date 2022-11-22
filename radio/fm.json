@@ -1,9 +1,7 @@
 {
-    "uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+    "uuid":"d802d274-199f-4a38-9b7b-66f43ef4d09e",
     "title": "电台",
-    "type":"radio",
-
-    "channels": [   
+    "data": [   
 {
 "name":"怀集音乐之声",
 "logo":"http://pic.qingting.fm/2014/0616/20140616100853326.png",
