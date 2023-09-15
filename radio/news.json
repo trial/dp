@@ -12,6 +12,12 @@
    "url":"https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
    "group":"News"
   },
+  {"name":"ABC Newsradio",
+   "logo":"https://cdn-profiles.tunein.com/s150918/images/logod.jpg",
+   "url":"https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8",
+   "group":"News"
+  },
+ 
     {"name":"NPR radio",
    "logo":"https://jedfoundation.org/wp-content/uploads/2021/11/NPR_Sticker.png",
    "url":"https://npr-ice.streamguys1.com/live.mp3",
