@@ -3,12 +3,12 @@
 "title":"News",
 "data": [
   {"name":"CNA938",
-   "logo":"https://cdn.sao.fm/wp-content/uploads/20220318114712424.jpg",
+   "logo":"https://playpoint.asia/wp-content/uploads/CNA-Money-Mind-logo-Smaller-feature.jpg",
    "url":"https://14033.live.streamtheworld.com/938NOW_PREM.aac",
    "group":"News"
   },
   {"name":"BBC World Service",
-   "logo":"https://cdn.sao.fm/wp-content/uploads/20220319175209806.png",
+   "logo":"https://www.radio.fr/images/broadcasts/dd/cb/3476/2/c300.png",
    "url":"https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
    "group":"News"
   },
@@ -18,7 +18,7 @@
    "group":"News"
   },
     {"name":"UFM100.3",
-   "logo":"https://cdn.sao.fm/wp-content/uploads/20220318111807494.jpg",
+   "logo":"https://yt3.googleusercontent.com/4J4GZnXodIvKIqEl_AXeAZ-fpzYZlQnD9CnVD5ET8B4ttV1Ae_ItTAmzu5KmPPusDmId7D-bNg=s900-c-k-c0x00ffffff-no-rj",
    "url":"https://23683.live.streamtheworld.com/UFM_1003AAC.aac",
    "group":"Music"
   },
