@@ -5,28 +5,28 @@
 "landscape_flag":true,
 "category": [{
 			"title": "Newest",
-			"url0": "https://xgroovy.com/new/",
-			"url1": "https://xgroovy.com/new/{pg}/"
+			"url0": "https://cn.xgroovy.com/new/",
+			"url1": "https://cn.xgroovy.com/new/{pg}/"
 		},
 	     {
 			"title": "Chinese",
-			"url0": "https://xgroovy.com/categories/chinese/",
-			"url1": "https://xgroovy.com/categories/chinese/{pg}/"
+			"url0": "https://cn.xgroovy.com/categories/chinese/",
+			"url1": "https://cn.xgroovy.com/categories/chinese/{pg}/"
 		},
 	       {
 			"title": "Japanese",
-			"url0": "https://xgroovy.com/categories/japanese/",
-			"url1": "https://xgroovy.com/categories/japanese/{pg}/"
+			"url0": "https://cn.xgroovy.com/categories/japanese/",
+			"url1": "https://cn.xgroovy.com/categories/japanese/{pg}/"
 		},
 	       {
 			"title": "Asian",
-			"url0": "https://xgroovy.com/categories/asian/",
-			"url1": "https://xgroovy.com/categories/asian/{pg}/"
+			"url0": "https://cn.xgroovy.com/categories/asian/",
+			"url1": "https://cn.xgroovy.com/categories/asian/{pg}/"
 		},
 	       {
 			"title": "Creampie",
-			"url0": "https://xgroovy.com/categories/creampie/",
-			"url1": "https://xgroovy.com/categories/creampie/{pg}/"
+			"url0": "https://cn.xgroovy.com/categories/creampie/",
+			"url1": "https://cn.xgroovy.com/categories/creampie/{pg}/"
 		}
 	],  
 "vod_node":"//div[@class='list-videos']//div[@class='item  ']",
@@ -47,8 +47,8 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://xgroovy.com/search/{wd}/",
-"search_url_other_page":"https://xgroovy.com/search/{wd}/{pg}/",
+"search_url_first_page":"https://cn.xgroovy.com/search/{wd}/",
+"search_url_other_page":"https://cn.xgroovy.com/search/{wd}/{pg}/",
 "search_vod_node":"//div[@class='list-videos']//div[@class='item  ']",
 "search_vod_title":"//strong[@class='title']",
 "search_vod_image_id":"//img/@src",
