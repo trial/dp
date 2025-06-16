@@ -8,7 +8,7 @@
    "group":"News"
   },
   {"name":"BBC World Service",
-   "logo":"https://www.radio.fr/images/broadcasts/dd/cb/3476/2/c300.png",
+   "logo":"https://play-lh.googleusercontent.com/pbYT0Rn-mvwgwu5gkhcxvOjrm3Vyyypk8izmNVGn3SmEHp3aRi1Mze5ok89ttx8A1Q=w480-h960",
    "url":"https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
    "group":"News"
   },
@@ -24,19 +24,9 @@
    "group":"News"
   },
     {"name":"UFM100.3",
-   "logo":"https://yt3.googleusercontent.com/4J4GZnXodIvKIqEl_AXeAZ-fpzYZlQnD9CnVD5ET8B4ttV1Ae_ItTAmzu5KmPPusDmId7D-bNg=s900-c-k-c0x00ffffff-no-rj",
-   "url":"https://23683.live.streamtheworld.com/UFM_1003AAC.aac",
+   "logo":"http://radiosg.com/images/stations/1713920506.webp",
+   "url":"https://28093.live.streamtheworld.com:443/UFM_1003AAC.aac",
    "group":"Music"
-  },
-  {"name":"RFI法国国际广播电台",
-   "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",
-   "url":"http://live02.rfi.fr/rfienchinois-64.mp3",
-   "group":"News"
-  },
-  {"name":"WSBU-88.3 FM St. Bonaventure NY",
-   "logo":"https://pbs.twimg.com/profile_images/1488244601135763456/-w1qGgD-_400x400.jpg",
-   "url":"https://17573.live.streamtheworld.com/WSBUFMAAC.aac",
-   "group":"College radio stations"
   }
  
   ]}
